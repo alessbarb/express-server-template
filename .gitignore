@@ -1,7 +1,9 @@
 .env
 .eslintignore
-.pretierrc
+.prettierrc
 package-lock.json
+package.json
 node_modules
 tsconfig.json
 dist
+.eslintrc.json
